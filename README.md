@@ -12,7 +12,7 @@
 > ```
 
 <ol>
-  <li>Open <strong>Keychain Access</strong>, navigate to the <strong>System</strong> tab, and import your certificate</li>
+  <li>Open <strong>Keychain Access</strong>, navigate to the <strong>login</strong> tab, and import your certificate</li>
   <li>Move the <strong>*.mobileprovision</strong> profile file to the iSigner folder</li>
   <li>Rename the profile to <strong>embedded.mobileprovision</strong></li>
   <li>Open the <strong>resign.sh</strong> file in a text editor</li>
