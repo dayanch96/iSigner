@@ -1,9 +1,9 @@
-# Tool for Fast Batch Resigning of iOS Applications
+# Tool for Fast Batch Resigning of iOS Applications on macOS
 
 ## Steps
 
 > [!NOTE]
-> If this is your first time using this tool, уxecute the following commands before you begin:
+> If this is your first time using this tool, execute the following commands before you begin:
 > ```
 > chmod +x /path/to/iSigner/resign.sh
 > ```
